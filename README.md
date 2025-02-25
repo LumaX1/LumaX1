@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LumaX1
 - 👀 I’m interested in web design and blockchain development
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learning UI/UX design and Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
